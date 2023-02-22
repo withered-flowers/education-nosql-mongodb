@@ -45,7 +45,11 @@
 
 ### Install MongoDB Local
 
+- https://www.mongodb.com/docs/manual/administration/install-community/
+
 ### Install MongoDB Atlas
+
+- https://www.mongodb.com/atlas/database
 
 ### Perintah Dasar MongoDB
 
@@ -73,6 +77,9 @@ Umumnya struktur folder micro(services) adalah sebagai berikut:
     - dst
 
 ### Membuat config/connectionToDb.js
+
+- Install package `mongodb`
+- Membuat connection db (https://www.mongodb.com/docs/drivers/node/current/fundamentals/connection/connect/#std-label-node-connect-to-mongodb)
 
 ### Membuat controller
 
