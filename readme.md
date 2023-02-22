@@ -11,6 +11,9 @@
   - Perintah dasar MongoDB
 - Dive into Code
   - Struktur Folder
+  - Membuat config/connectionToDb.js
+  - Membuat controller
+  - Membuat model
 
 ## Apa itu NoSQL
 
@@ -48,7 +51,9 @@
 
 - `use [namadatabase]`
 - `db.[namadocument].insertMany()`
+- `db.[namadocument].insertOne()`
 - `db.[namadocument].find().pretty()`
+- `db.[namadocument].findOne()`
 - `db.[namadocument].deleteMany()`
 
 ## Dive into Code
@@ -66,3 +71,9 @@ Umumnya struktur folder micro(services) adalah sebagai berikut:
     - namaDomainServicesKedua
       - app.js (start di sini untuk kode server (service) kedua)
     - dst
+
+### Membuat config/connectionToDb.js
+
+### Membuat controller
+
+### Membuat model
