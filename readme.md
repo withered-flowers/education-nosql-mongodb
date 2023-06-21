@@ -84,3 +84,15 @@ Umumnya struktur folder micro(services) adalah sebagai berikut:
 ### Membuat controller
 
 ### Membuat model
+
+### References
+
+- [nosql](https://www.mongodb.com/nosql-explained)
+- [nosql vs sql](https://www.mongodb.com/nosql-explained/nosql-vs-sql)
+- [Why use nosql](https://www.mongodb.com/developer/products/mongodb/top-4-reasons-to-use-mongodb/)
+- [mongodb install](https://docs.mongodb.com/manual/installation/)
+- [mongosh install](https://docs.mongodb.com/mongodb-shell/)
+- [crud operation](https://docs.mongodb.com/manual/crud/)
+- [terminology](https://docs.mongodb.com/manual/reference/sql-comparison/)
+- [mongo driver](https://www.mongodb.com/docs/drivers/)
+- [challenge](https://docs.google.com/document/d/1beJXG8ObzkP1t20rAOF2avcPj2U7fyLwIv_BoDfGZ24/edit)
